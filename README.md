@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sanzi Robot: A Command-Based Robot</title>
 </head>
 <body>
     <header>
@@ -16,8 +15,7 @@
     <section>
         <h2>Features</h2>
         <ul>
-            <li><strong>Command-Based Operation:</strong> Sanzi Robot operates based on user commands provided through a designated interface or control panel.</li>
-            <li><strong>Adaptive Learning:</strong> The robot is capable of learning and adapting to new commands over time, enhancing its versatility.</li>
+            <li><strong>Command-Based Operation:</strong> Sanzi Robot operates based on user commands provided through a designated control panel.</li>
             <li><strong>High Precision:</strong> With advanced sensors and actuators, Sanzi Robot ensures precise execution of commands with minimal errors.</li>
             <li><strong>Remote Control:</strong> Users can control the robot remotely using compatible devices or interfaces, enabling operation from a distance.</li>
             <li><strong>Expandability:</strong> The system is designed to support expansion and integration with additional hardware or software modules for extended functionality.</li>
@@ -30,8 +28,8 @@
             <li>Industrial automation</li>
             <li>Warehouse management</li>
             <li>Security surveillance</li>
-            <li>Healthcare assistance</li>
-            <li>Education and research</li>
+            <li>Home assistance</li>
+            <li>Education</li>
         </ul>
     </section>
     <section>
@@ -39,20 +37,25 @@
         <p>To operate Sanzi Robot, users need to input commands through the designated interface. These commands can include instructions for movement, manipulation of objects, data collection, and more.</p>
         <p>Example commands:</p>
         <ul>
-            <li>Move forward</li>
-            <li>Turn left</li>
-            <li>Pick up item</li>
+            <li>Move forward </li>
+            <li>Move backward</li>
+            <li>Turn left </li>
+            <li>Turn right </li>
             <li>Scan environment</li>
             <li>Execute predefined task</li>
         </ul>
     </section>
-    <footer>
-        <p>&copy; 2024 Sanzi Robotics Inc. All rights reserved.</p>
-    </footer>
+    
 </body>
 </html>
-![sanzi (3)](https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/3d3f38bd-c405-4e42-9e75-edd9f1496b7a)
-![sanzi (1)](https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/97210896-90f2-4a23-a62c-907c9a4a976d)
-![sanzi (2)](https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/18a2f196-8be3-4230-bf55-9a06d6966fd4)
-![sanzi (4)](https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/0aa46885-50dd-45e8-88c2-0e60505f05c2)
-![sanzi (1)](https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/f8a5a46c-5ec8-4f50-8693-605d8dc977a1)
+<p align="center">
+  <img style="display: block; margin: 0 auto;" src="https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/3d3f38bd-c405-4e42-9e75-edd9f1496b7a" width="400" height="250" />
+    <img style="display: block; margin: 0 auto;" src="https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/97210896-90f2-4a23-a62c-907c9a4a976d" width="400" height="250" />
+</p>
+<p align="center">
+  <img style="display: block; margin: 0 auto;" src="https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/18a2f196-8be3-4230-bf55-9a06d6966fd4" width="400" height="250" />
+</p>
+<p align="center">
+  <img style="display: block; margin: 0 auto;" src="https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/0aa46885-50dd-45e8-88c2-0e60505f05c2" width="300" height="400" />
+  <img style="display: block; margin: 0 auto;" src="https://github.com/blackpandaapkm/Sanzi-Robot/assets/97750732/f8a5a46c-5ec8-4f50-8693-605d8dc977a1" width="300" height="400" />
+</p>
